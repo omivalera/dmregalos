@@ -1,2 +1,0 @@
-# dmregalos
-GitHub Pages
