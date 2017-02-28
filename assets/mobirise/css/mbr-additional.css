@@ -22,12 +22,24 @@
 }
 #msg-box2-5 .mbr-header .mbr-header__text {
   color: #ffffff;
-  text-align: center;
+  text-align: right;
   font-size: 30px;
   font-family: 'Montserrat', sans-serif;
 }
 #msg-box2-5 .mbr-article {
   color: #252525;
+}
+#features1-3 .mbr-section__col .mbr-header__text {
+  color: #a2195b;
+}
+#features1-3 P {
+  text-align: center;
+}
+#features1-8 .mbr-section__col .mbr-header__text {
+  color: #a2195b;
+}
+#features1-8 P {
+  text-align: center;
 }
 #form1-4 .mbr-header__text {
   color: #ffffff;
