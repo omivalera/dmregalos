@@ -53,7 +53,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dmregalos-3-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/dm-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -89,7 +89,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1334.jpg",
                 "contentAlign": "right",
                 "overlay": true,
                 "overlayOpacity": "0.2",
@@ -101,8 +101,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1336.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "Slide 2",
@@ -112,7 +112,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/mbr-2000x1208.jpg",
                 "contentAlign": "left",
                 "overlay": false,
