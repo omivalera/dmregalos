@@ -4,10 +4,10 @@
   font-size: 16px;
 }
 #menu-1.mbr-navbar--stuck .mbr-navbar__section {
-  background: #000000;
+  background: #ffffff;
 }
 #menu-1 .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #009f98;
 }
 #content5-7 .mbr-header .mbr-header__text {
   text-align: center;
@@ -28,4 +28,7 @@
 }
 #msg-box2-5 .mbr-article {
   color: #252525;
+}
+#form1-4 .mbr-header__text {
+  color: #ffffff;
 }
